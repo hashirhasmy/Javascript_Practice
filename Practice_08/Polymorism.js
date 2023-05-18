@@ -6,10 +6,7 @@ class pol{
     test(id,name){
         console.error(id,name);
     }
-
-
 }
-
 
 let x = new pol()
 // console.log(x.test(25))
