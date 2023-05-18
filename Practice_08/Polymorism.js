@@ -4,7 +4,7 @@ class pol{
     }
 
     test(id,name){
-        console.log(id,name);
+        console.error(id,name);
     }
 
 
