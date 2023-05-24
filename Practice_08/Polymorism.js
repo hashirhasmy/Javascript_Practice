@@ -10,4 +10,5 @@ class pol{
 
 let x = new pol()
 // console.log(x.test(25))
+
 console.log(x.test(25,"hashir"))
