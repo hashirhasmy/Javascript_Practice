@@ -28,7 +28,7 @@ for (let x in person) {
 }
 
 let employee = {
-    empid : 01,
+    empid : 5555,
     salary : 5000,
     empname : "test",
     bonus : function(){

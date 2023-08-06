@@ -27,6 +27,7 @@ createObject003.display();
 
 
 let createObject = new Student();
+let createObject1 = new Student();
 createObject.setDetails(4,"h",74)
 createObject.display();
 createObject1.setDetails(5,"h",75)
