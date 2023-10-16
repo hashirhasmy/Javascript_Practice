@@ -32,7 +32,7 @@ console.log(j!=k); //true
 console.log(j==k); //false
 
 
-//termnary Operator
+//ternary Operator
 console.log(j<k ? j:k); //returns j value 10
 console.log(k>j ? k:j);  //returns k value 20
 
